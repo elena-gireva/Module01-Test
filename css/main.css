@@ -1,0 +1,22 @@
+p {
+    color: rgb(109, 148, 112);
+    font-weight: bold;
+    font-size: 18px;
+}
+q {
+    color: rebeccapurple;
+    font-style: italic;
+    font-weight: bold;
+}
+h1 {
+    color: rgb(68, 134, 62);
+    background-color: rgb(211, 243, 196);
+}
+body {
+    background-color: rgb(235, 225, 180);
+}
+a {
+    color: rgb(37, 54, 35);
+    font-weight: bold;
+}
+

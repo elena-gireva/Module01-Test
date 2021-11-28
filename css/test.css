@@ -17,7 +17,7 @@ h1, h2, h3 {
     margin-right: 50px;
     text-decoration: none;
     color: lightgreen;
-    font-size: 700;
+    font-weight: 700;
     background-color: rebeccapurple;
     padding: 5px 15px;
 }
@@ -43,13 +43,13 @@ ul > li {
 .post {
     padding-bottom: 20px;
 }
-.footer {
+footer p{
     font-size: 13px;
     padding: 0 20px;
 }
 a {
     color: rebeccapurple;
-    font-size: 700;
+    font-weight: 700;
     text-decoration: none;
 }
 section {
